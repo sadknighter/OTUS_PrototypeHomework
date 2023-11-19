@@ -1,4 +1,4 @@
-# OTUS_MultithreadProject
+# OTUS_PrototypeHomework
 ## Шаблон проектирования Прототип
 
 ### Цель:
