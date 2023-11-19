@@ -42,4 +42,4 @@ Console.WriteLine("storageProduct2: " + storageProduct2.ToString());
 Console.WriteLine("clone1: " + clone1.ToString());
 Console.WriteLine("End of block");
 Console.WriteLine("");
-//TODO: Fix ToString Overrides, Debug this, Add conclusion of using IMyCloneable vs ICloneable
+//TODO: Add conclusion of using IMyCloneable vs ICloneable

@@ -33,6 +33,12 @@
             return clone;
         }
 
+
+        public override string ToString()
+        {
+            return $"[ Id: {Id}, Name: {Name}, Color: {Color}, Size: {Size}, StorageName: {StorageName}, UnitName: {Unit.Name}, UnitDescription: {Unit.Description} ]";
+        }
+
         public object Clone() => CloneCtor();
     }
 }
